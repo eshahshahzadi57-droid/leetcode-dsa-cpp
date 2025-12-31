@@ -16,3 +16,8 @@ The purpose of this repository is to strengthen problem-solving skills, practice
 ---
 
 ## 📂 Folder Structure
+leetcode-dsa-cpp/
+│── README.md
+│── arrays/
+│   └── two_sum.cpp
+│   └── palindrome_number.cpp
