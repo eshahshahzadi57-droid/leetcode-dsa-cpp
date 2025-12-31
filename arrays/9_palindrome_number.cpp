@@ -20,3 +20,6 @@ public:
         return temp==reverse;
     }
 };
+
+// Time Compexity = O(log n)
+// Space Complexity = O(1)
