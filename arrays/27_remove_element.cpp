@@ -19,3 +19,6 @@ public:
     }
 
 };
+
+//Time Compelxity -- O(n)
+//Space Complexity -- O(1)
