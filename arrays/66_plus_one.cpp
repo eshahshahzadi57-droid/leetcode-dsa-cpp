@@ -21,6 +21,28 @@ public:
 };
 
 int main(){
-    
+    Solution obj;
+
+    int n;
+
+    cout << "Enter number of digits: ";
+    cin >> n;
+
+    vector<int> digits(n);
+
+    cout << "Enter digits: ";
+
+    for(int i = 0; i < n; i++) {
+        cin >> digits[i];
+    }
+
+    vector<int> result = obj.plusOne(digits);
+
+    cout << "Result: ";
+
+    for(int i = 0; i < result.size(); i++) {
+        cout << result[i] << " ";
+    }
+
     return 0;
 }
