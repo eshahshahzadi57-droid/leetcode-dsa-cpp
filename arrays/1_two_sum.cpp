@@ -20,4 +20,4 @@ public:
 
 
 // Time Compexity = O(n²)
-// Space Complexity = O(1)
+// Space Comlexity = O(1)
